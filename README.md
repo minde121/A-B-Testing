@@ -49,6 +49,10 @@ The target metrics are:
 - **7-Day Retention Analysis**: Significant difference in retention rates, with gate_40 showing lower retention.
 - **Total Game Rounds Analysis**: No significant difference in the total number of game rounds played between gate_30 and gate_40.
 
+## Dashboard
+
+You can view the interactive dashboard for the analyses in Looker Studio [here](https://lookerstudio.google.com/s/sP20Xu7x9xQ).
+
 ## Conclusion
 
 Based on the analyses, we provide recommendations for the best marketing strategy in the Fast Food Marketing Campaign and the optimal gate placement in the Cookie Cats game to maximize player retention and engagement.
